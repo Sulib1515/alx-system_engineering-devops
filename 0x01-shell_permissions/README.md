@@ -12,3 +12,4 @@ task10- Copies the mode of file olleh to file hello
 task11-  Add execute permission to all subdirectories of the current directory for the everyone. Regular files should not be changed
 task12- Create a directory called my_dir with permissions 751 in the working directory. User has all read, write, and execute permissions. Group has read and execute permissions. Others have just execute permission
 task13- changing group owner to school for the file hello
+task14-  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
