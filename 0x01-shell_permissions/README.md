@@ -7,3 +7,4 @@ task5- Add execute permission to the owner of the file hello
 task6- Add execute permission to user and group owner, and read permission to others for file hello
 task7- Add execution permission to all for file hello
 task8- Set permissions for file hello so owner and group don't have any permissions and other users have all permissions.
+task9- Set permissions so owner has all permissions, group has read and execute permissions and others have write and execute permissions.
