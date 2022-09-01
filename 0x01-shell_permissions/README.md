@@ -5,3 +5,4 @@ task3- changing the owner of hello file to user betty
 task4- Create an empty file called hello
 task5- Add execute permission to the owner of the file hello
 task6- Add execute permission to user and group owner, and read permission to others for file hello
+task7- Add execution permission to all for file hello
