@@ -1,1 +1,2 @@
-project0-changing the current user to betty
+task0- switching the current user to user betty
+task1- print the name of the current user
