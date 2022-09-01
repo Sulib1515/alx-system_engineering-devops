@@ -15,3 +15,4 @@ task13- changing group owner to school for the file hello
 task14-  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 changes the owner and the group owner of _hello to vincent and staff respectively
 hanges the owner of the file hello to betty only if it is owned by the user guillaume
+ script that will play the StarWars IV episode in the terminal
