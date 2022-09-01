@@ -9,3 +9,4 @@ task7- Add execution permission to all for file hello
 task8- Set permissions for file hello so owner and group don't have any permissions and other users have all permissions.
 task9- Set permissions so owner has all permissions, group has read and execute permissions and others have write and execute permissions.
 task10- Copies the mode of file olleh to file hello
+task11-  Add execute permission to all subdirectories of the current directory for the everyone. Regular files should not be changed
