@@ -12,3 +12,4 @@ task10-  deletes all the regular files (not the directories) with a .js extensio
 counts the number of directories and sub-directories in the current directory.
  displays the 10 newest files in the current directory.
 task12- takes a list of words as input and prints only words that appear exactly once.
+Display lines containing the pattern “root” from the file /etc/passwd
