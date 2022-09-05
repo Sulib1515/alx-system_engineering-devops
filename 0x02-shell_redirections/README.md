@@ -22,3 +22,4 @@ task19- Replace all characters A and c from input to Z and e respectively.
 task20- Create a script that removes all letters c and C from input.
  task21- reverse its input.
  task22- displays all users and their home directories, sorted by users.
+finds all empty files and directories in the current directory and all sub-directories
