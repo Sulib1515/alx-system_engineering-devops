@@ -18,3 +18,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 task18- Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+task19- Replace all characters A and c from input to Z and e respectively.
