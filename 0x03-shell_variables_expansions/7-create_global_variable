@@ -1,2 +1,2 @@
 #!/bin/bash
-task7- Create a script that creates a new global variable.
+export BEST="School"
